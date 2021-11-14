@@ -12,7 +12,7 @@ public class Main extends JavaPlugin {
         //Commands
         getCommand("speicher").setExecutor(new SpeicherCmd());
         getCommand("msg").setExecutor(new MsgCmd());
-        getCommand("map").setExecutor(new MapCmd());
+        getCommand("operator").setExecutor(new OpCmd());
 
         //Tab Completer
         getCommand("msg").setExecutor(new MsgCmd());

@@ -16,4 +16,4 @@ commands:
   position:
   delposition:
   setposition:
-  map:
+  operator:
