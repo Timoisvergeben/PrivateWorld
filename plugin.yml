@@ -1,0 +1,19 @@
+main: me.timo.pw.main.Main
+api-version: 1.17
+author: Timo
+version: 1.0
+load: POSTWORLD
+name: PrivateWorld
+description: Privates Welt Plugin von Timo
+depend:
+  - TimoApi
+
+commands:
+  msg:
+  speicher:
+  asdelhomeno:
+  asdelhomeyes:
+  position:
+  delposition:
+  setposition:
+  map:

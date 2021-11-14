@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TimoApi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jars/plugins/TimoApi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

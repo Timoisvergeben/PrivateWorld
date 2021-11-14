@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrivateWorld">
+    <output-path>$PROJECT_DIR$/../../../../../Desktop/Dev/SurivalWorld/plugins</output-path>
+    <root id="archive" name="PrivateWorld.jar">
+      <element id="module-output" name="PrivateWorld" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
